@@ -53,3 +53,4 @@ Hãy đọc toàn bộ kịch bản 28 Shots tại `docs/03_KICH_BAN_TIMELINE_14
 Hãy viết một script Python hoàn chỉnh sử dụng Pillow (PIL), NumPy, OpenCV và FFmpeg để tự động dựng và render toàn bộ 41 bức ảnh trong `tai_nguyen_phan_hoach/` cùng file nhạc `tai_nguyen_phan_hoach/07_Am_Thanh_Bai_Hat_Mau/nhac_nen_dong_dien_tri_an_2m27s.m4a` thành file `Video_Dong_Dien_12A2_THPT_Thuan_Hoa.mp4` (1920x1080, 30fps, H.264 yuv420p, AAC audio, thời lượng đúng 147.0 giây).
 Đảm bảo cài đặt hàm toán học `dampedSettle` từ `video-shotcraft/assets/lib/helpers.ts` sang Python để tạo chuyển động mượt mà cho các khung ảnh Rounded Card, Classic Arch Frame và Dual Polaroid, hỗ trợ đầy đủ font chữ Tiếng Việt Unicode sắc nét.
 ```
+

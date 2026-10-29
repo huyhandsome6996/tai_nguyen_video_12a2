@@ -93,3 +93,4 @@ Dưới đây là **Bảng Timeline Chuẩn (28 Cảnh / Shots)** bao phủ toà
 - **Ngăn 05 (`05_Chuyen_Di_Thanh_Xuan_Quy_Nhon_Lang_Co`)**: Đã dùng đủ `11/11` ảnh (`Shot 19, 20, 21, 22, 24, 25, 26`).
 - **Ngăn 06 (`06_Lop_12_Tri_An_Va_Truong_Thanh`)**: Đã dùng đủ `3/3` ảnh (`Shot 23, 27, 28`).
 - **Tổng cộng**: **41/41 ảnh độc nhất** + **1 file nhạc nền `147.0s`** khớp 100% khung thời gian bài hát.
+

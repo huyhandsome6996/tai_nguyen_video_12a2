@@ -125,3 +125,4 @@ Từ 44 file ảnh trong bản nén gốc `12A2.zip` (và 13 ảnh trong `12a2p2
 - **Đường dẫn**: [`tai_nguyen_phan_hoach/07_Am_Thanh_Bai_Hat_Mau/nhac_nen_dong_dien_tri_an_2m27s.m4a`](../tai_nguyen_phan_hoach/07_Am_Thanh_Bai_Hat_Mau/nhac_nen_dong_dien_tri_an_2m27s.m4a)
 - **Định dạng**: AAC Audio (`m4a`), `128 kbps`, `44.1 kHz`, Stereo
 - **Thời lượng chính xác**: `147.0 giây` (`02:27`)
+

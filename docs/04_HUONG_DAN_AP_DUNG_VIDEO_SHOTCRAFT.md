@@ -173,3 +173,4 @@ Nếu Coding Agent chạy trên máy chưa cài Node.js nhưng có Python + FFmp
 - Viết script Python đọc trực tiếp bảng cấu hình 28 Shots từ [`03_KICH_BAN_TIMELINE_147_GIAY.md`](./03_KICH_BAN_TIMELINE_147_GIAY.md).
 - Dùng `PIL.Image`, `PIL.ImageDraw`, `PIL.ImageFilter.GaussianBlur` và font tiếng Việt hệ thống (`C:\Windows\Fonts\timesbi.ttf`, `segoeui.ttf`, `arialbd.ttf`) để vẽ từng frame `1920x1080` với công thức toán học `dampedSettle` tương đương.
 - Pipe trực tiếp luồng frame raw RGB vào `ffmpeg` kèm file âm thanh `tai_nguyen_phan_hoach/07_Am_Thanh_Bai_Hat_Mau/nhac_nen_dong_dien_tri_an_2m27s.m4a` để xuất ra `Video_Dong_Dien_12A2_THPT_Thuan_Hoa.mp4` (`H.264`, `yuv420p`, `30fps`, `1920x1080`).
+
